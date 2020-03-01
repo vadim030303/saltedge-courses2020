@@ -33,10 +33,14 @@ Hash doesnt have such opportunity and we can call hash unordered.
 
 #Problem 8
 #Suppose you have a hash h = {a:1, b:2, c:3, d:4}
+hash = {:name => 'vadim'}
+hash = {name: 'vadim'}
 
 #Problem 9
 #Can hash values be arrays? Can you have an array of hashes?(give exmples
-Yes, hash could values be arrays
+"Yes, hash values can be arrays"
+hash = {a: [],b: [], c: []}
+"Yes, I can have an array of hashes"
 array = [ {a: 1, b: 2, c: 3} ]
 
 #Problem 10
